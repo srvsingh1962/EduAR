@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 1
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd all Textures\\New folder\\cadnav.com_model\\chr_h_005\\chr_h_005.png
+map_d all Textures\\New folder\\cadnav.com_model\\chr_h_005\\chr_h_005.png
+
+newmtl 2
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd all Textures\\New folder\\cadnav.com_model\\chr_h_005\\chr_h_005.png
+map_d all Textures\\New folder\\cadnav.com_model\\chr_h_005\\chr_h_005.png
